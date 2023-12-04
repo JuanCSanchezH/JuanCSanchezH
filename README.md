@@ -1,5 +1,5 @@
-<h1 align="center![Black Technology LinkedIn Banner](https://github.com/JuanCSanchezH/JuanCSanchezH/assets/90232541/7f4fd9ce-155a-40ad-9903-5a6164ef56d7)
-">¡Hi! 👋, I'm Juan Camilo Sánchez</h1>
+![Black Technology LinkedIn Banner](https://github.com/JuanCSanchezH/JuanCSanchezH/assets/90232541/7f4fd9ce-155a-40ad-9903-5a6164ef56d7)
+<h1 align="center">¡Hi! 👋, I'm Juan Camilo Sánchez</h1>
 <h3 align="center">I'm a passionate bioengineer developer who enjoys coding!</h3>
 
 - 🔭 I’m currently working on **Source Meridian**
