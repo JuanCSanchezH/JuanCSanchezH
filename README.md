@@ -7,6 +7,8 @@ Passionate bioengineer with a strong background in programming, data analysis, a
 </p>
 
 <h1 align="left">Technical Skills</h1>
+
+- ReactJS
 - ReactJS
 - VueJS
 - Javascript
@@ -25,8 +27,7 @@ Passionate bioengineer with a strong background in programming, data analysis, a
 - Dedication
 - Adaptability
 
-- 🔭 I’m currently working on **Source Meridian**
-
+<h4 align="left">🔭 I’m currently working on **Source Meridian**</h4
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-camilo-s%c3%a1nchez-hincapi%c3%a9-9443a1178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-camilo-s%c3%a1nchez-hincapi%c3%a9-9443a1178/" height="30" width="40" /></a>
