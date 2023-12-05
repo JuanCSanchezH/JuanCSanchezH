@@ -2,6 +2,29 @@
 <h1 align="center">¡Hi! 👋, I'm Juan Camilo Sánchez</h1>
 <h3 align="center">I'm a passionate bioengineer developer who enjoys coding!</h3>
 
+<p align="left">
+Passionate bioengineer with a strong background in programming, data analysis, and information management. I am actively involved in academic software development projects, specifically focusing on front-end web application design. I also love to get involved in data analysis, verification and building. Highly proficient in several programming languages.
+</p>
+
+<h1 align="left">Technical Skills</h1>
+- ReactJS
+- VueJS
+- Javascript
+- HTML5, CSS3
+- Bases de datos SQL y no SQL (Firebase)
+- Bootstrap, Vuetify, SASS
+- Python
+- C
+- Intermediate English
+
+<h1 align="left">Soft Skills</h1>
+
+- Work under pressure
+- Quick learning
+- Active listening
+- Dedication
+- Adaptability
+
 - 🔭 I’m currently working on **Source Meridian**
 
 <h3 align="left">Connect with me:</h3>
