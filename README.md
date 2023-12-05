@@ -1,9 +1,9 @@
 ![Black Technology LinkedIn Banner](https://github.com/JuanCSanchezH/JuanCSanchezH/assets/90232541/7f4fd9ce-155a-40ad-9903-5a6164ef56d7)
 <h1 align="center">¡Hi! 👋, I'm Juan Camilo Sánchez</h1>
-<h3 align="center">I'm a passionate bioengineer developer who enjoys coding!</h3>
+<h3 align="center">A passionate bioengineer developer who enjoys coding!</h3>
 
 <p align="left">
-Passionate bioengineer with a strong background in programming, data analysis, and information management. I am actively involved in academic software development projects, specifically focusing on front-end web application design. I also love to get involved in data analysis, verification and building. Highly proficient in several programming languages.
+I have a strong background in programming, data analysis, and information management. Actively involved in academic software development projects, specifically focusing on front-end web application design. Highly proficient in several programming languages. I also love to get involved in data analysis, verification and building. 
 </p>
 
 <h1 align="left">Technical Skills</h1>
