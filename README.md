@@ -9,7 +9,6 @@ I have a strong background in programming, data analysis, and information manage
 <h1 align="left">Technical Skills</h1>
 
 - ReactJS
-- ReactJS
 - VueJS
 - Javascript
 - HTML5, CSS3
