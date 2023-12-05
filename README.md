@@ -12,7 +12,7 @@ I have a strong background in programming, data analysis, and information manage
 - VueJS
 - Javascript
 - HTML5, CSS3
-- Bases de datos SQL y no SQL (Firebase)
+- SQL database & no SQL (Firebase)
 - Bootstrap, Vuetify, SASS
 - Python
 - C
