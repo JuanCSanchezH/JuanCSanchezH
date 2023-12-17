@@ -3,7 +3,7 @@
 <h3 align="center">A passionate bioengineer developer who enjoys coding!</h3>
 
 <p align="left">
-I have a strong background in programming, data analysis, and information management. Actively involved in academic software development projects, specifically focusing on front-end web application design. Highly proficient in several programming languages. I also love to get involved in data analysis, verification and building. 
+I have a strong background in programming, data analysis, and information management. Actively involved in academic software development projects, specifically focusing on front-end web application design. Highly proficient in several programming languages. I also love to get involved in data analysis, data verification and building. 
 </p>
 
 <h1 align="left">Technical Skills</h1>
