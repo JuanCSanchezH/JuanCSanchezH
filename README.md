@@ -1,5 +1,5 @@
 ![Black Technology LinkedIn Banner](https://github.com/JuanCSanchezH/JuanCSanchezH/assets/90232541/7f4fd9ce-155a-40ad-9903-5a6164ef56d7)
-<h1 align="center">¡Hi! 👋, I'm Juan Camilo Sánchez</h1>
+<h1 align="center">Hi! 👋, I'm Juan Camilo Sánchez</h1>
 <h3 align="center">A passionate bioengineer developer who enjoys coding!</h3>
 
 <p align="left">
